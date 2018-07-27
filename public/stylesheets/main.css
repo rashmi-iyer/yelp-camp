@@ -1,0 +1,17 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+/* Commented out because bootstrap has caption class that does same thing */
+/*.thumbnail .caption-full {*/ 
+/*    padding: 9px;*/
+/*}*/
+
+.delete-form {
+    display: inline;
+}
+
